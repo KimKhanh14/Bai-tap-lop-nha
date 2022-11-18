@@ -40,17 +40,14 @@ AI giúp tự động hóa, thông minh hóa quy trình sản xuất, quản lý
 Có bột mới gột nên hồ
 
 ### CMCN 1.0
-
 Máy hơi nước (bột) + Công nghệ tạo ra máy sử dụng hơi nước (hồ).
 
 ### CMCN 2.0
-
 Than đá, dầu mỏ (bột) + Công nghệ điều chế than đá, dầu mỏ để chế tạo ra điện (hồ).
 
 Chậm về Khoa học kỹ thuật sẽ bị đô hộ.
 
 ### CMCN 3.0
-
 Chất bán dẫn (bột) + các thiết bị kỹ thuật số cụ thể là “Computer” (hồ).
 
 Từ đó tạo ra điện thoại, máy tính, các thiết bị hiện đại.
@@ -58,12 +55,51 @@ Từ đó tạo ra điện thoại, máy tính, các thiết bị hiện đại.
 Internet phát triển quá mạnh.
 
 ### CMCN 4.0
-
 Data (bột) + khai thác (hồ).
 
 Xử lý lượng dữ liệu lớn, đa dạng. Ở thời kỳ 3.0 cũng có nhưng chỉ ở dạng sample, giờ thành population, gây sự đột biến.
 
 VN không đứng ngoài cuộc như 3 thời kỳ trước.
+
+## 5. Trong bối cảnh cuộc CM 4.0 thì quy trình sản xuất quản lý xã hội, dữ liệu thị giác đóng vai trò như thế nào trong quá trình chuyển đổi số. Cho ví dụ trong quy trình sản xuất và quản lý xã hội nó nằm ở đâu và xử lý như thế nào?
+
+### Quy trình sản xuất
+Thiết kế (may mặc, giày dép, khung xe, bao bì,...) -> 
+
+Đồ họa máy tính:
+- Kiến trúc: Giảm thời gian vào vẽ tay, tập trung vào việc thiết kế.
+- Cơ khí: Ảnh hưởng nhiều ngành. Ví dụ như ngành sản xuất máy móc.
+- Game: Đồ họa game
+
+Trong trồng trọt/chăn nuôi:
+- Dùng drone để thả thức ăn, dùng robot,...
+
+### Quy trình quản lý xã hội
+- IKYC
+- Giám sát thông minh
+- Giao thông thông minh
+- Chẩn đoán bệnh trong y khoa
+
+## 6. Sự khác biệt giữa thị giác người với thị giác máy tính
+
+## 7. Lấy dữ liệu từ trong não ra để làm gì?
+- Nghiên cứu để số hóa giấc mơ, ảnh hóa giấc mơ.
+- Hiểu hơn về con người, tư vấn tâm lý.
+
+## 8. Trong một bức ảnh chứa nội dung gì?
+
+## 9. Thách thức semantic gap (lỗ hổng ngữ nghĩa) là gì?
+
+## 10. AI giúp cho mình cái gì trong việc nhận biết ngữ nghĩa dữ liệu thể hiện thông qua dữ liệu thị giác máy tính lưu trữ (giải quyết semantic gap).
+
+## 11. Ý nghĩa, triết lý của xe tự hành?
+
+## 12. 3 môn Đồ họa máy tính, Xử lý ảnh, Thị giác máy tính khác nhau như thế nào?
+
+## 13. Thực tại ảo với thực tại tăng cường khác nhau chỗ nào?
+
+
+
 
 
 
